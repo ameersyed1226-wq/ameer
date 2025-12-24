@@ -1,0 +1,8 @@
+{
+  "name": "ameerapp",
+  "description": "A lightweight, AI-first CRM designed for freelancers and small teams to manage leads, deals, and follow-ups with ease.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
